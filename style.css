@@ -1,1 +1,20 @@
-/* Здесь будут данные */
+body {
+    min-width: 1500px;
+}
+.center {
+    position: relative;
+    width: 50%;
+    background-color: rgb(236, 238, 240);
+    margin: auto;
+    padding-left: 5%;
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+.photo {
+    padding-left: 10%;
+}
+.contacts {
+    position: absolute;
+    left: 50%;
+    top: 10%;
+}
