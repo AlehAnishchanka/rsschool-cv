@@ -60,4 +60,5 @@ SQL online sql-ex.ru
 * additionaly about me:\
 I am an easily trained person. I permanently improve my skills.
 I am stress-resistant and not conflict person. I know how to work in a team.
+I work simultaneously on several projects on various tasks.
 
