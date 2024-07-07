@@ -32,12 +32,15 @@ from 2018 to 2022 - STiM (Belarus, Brest)
  I worked as a programmer **Bitrix24** administrator and business analyst rolled into one. Since 2021, my activities in this\
  company have focused exclusively on programming.
  
-I have worked as a **PHP** programmer for 4 year for STiM (Brest). I maintain and support CMS system **Bitrix24**\
-for our company. During the first 3 years I worked as administrator, business analyst and programmer, rolled into one.\
-Since last year my role is focused on being a programmer only. My latest project is Servis Desk IT Department\
-of our company. It includes **chat-bot** as enter point, **web-form** ( 8 complicated dinamic form in 1, writen with\
-**Vue.js** ), api to recive and transmit data ( **php**, **sql** ) , and backend ( **php**, **sql**, **oop** ).\
-This application is bilt into cms **Bitrix24** and uses standard functionality **Bitrix24**.
+* from my latest projects:\
+  Implementation of a custom service desk (the existing client was not satisfied). Executed using <br>smart processes,\
+  tasks, lists. The lists have a three-level hierarchy of requests, sla, technical support users, divided into lines support.\
+  The first version of the request form was made by me in Vue.js. Deadlines for elements of requests and tasks in depending on\
+  sla, weekends and holidays, availability of employees of the nearest TP line (5 in total) on current and next days.\
+  If the corresponding line is unavailable, the next one will be used. To work with statistics requests, 5 custom reports with\
+  customer logic were implemented. The service desk is also synchronized with ZABIX. When certain ZABIX events occur, automatic\
+  calls are created using a custom webhook.
+  To date, I have already implemented 3 similar projects
 
 * my skills: **PHP**, **SQL**, **JS**, **Vue.js** , **cms Bitrix24**
 * also I use **HTML**, **CSS** and **bootstrap-vue** in my work
