@@ -12,7 +12,7 @@
 * about me:\
 January 2022 to present - ARTBYTE.AGENCY (Russia, Kostroma)
 
- I have been working as a **PHP** developer at ARTBYTE.AGENCY since January 2022\
+ I have been working as a **PHP** developer at ARTBYTE.AGENCY since January 2022
 
  My responsibilities mainly include customizing **Bitrix24** portals in accordance with the wishes of clients,\
  as well as working with portal data and writing all kinds of reports, integrating client portals with external systems,\
